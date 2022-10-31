@@ -16,6 +16,9 @@ Known bugs:
 
 
 
-License$$
-MIT License, which is viewable in the repository.
-$$
+
+<img width="1512" alt="Screen Shot 2022-10-30 at 11 09 24 PM" src="https://user-images.githubusercontent.com/115908599/198943310-48ca3004-8dc2-4769-8858-31560e2da1a3.png">
+<img width="1512" alt="Screen Shot 2022-10-30 at 11 09 28 PM" src="https://user-images.githubusercontent.com/115908599/198943323-9d00063b-1273-41bb-8edb-26af341cc950.png">
+
+
+License: MIT license which can be found in the repository.

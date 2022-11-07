@@ -149,6 +149,8 @@ p {
     opacity: .5;
     text-align: center;
     font-size: 30px;
+    text-decoration: none;
+    text-decoration-color: darkgrey;
     font-weight: 300;
     padding-top: 5px;
     margin-top: 20px;

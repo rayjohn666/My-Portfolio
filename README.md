@@ -18,6 +18,8 @@ Screenshots:
 <img width="1512" alt="Screen Shot 2022-10-30 at 11 09 24 PM" src="https://user-images.githubusercontent.com/115908599/198944399-962e5b8d-0c6f-4527-864e-60349fbf6fb7.png">
 <img width="1512" alt="Screen Shot 2022-10-30 at 11 09 28 PM" src="https://user-images.githubusercontent.com/115908599/198944417-cbf58a53-b904-44d4-902b-70318232de63.png">
 
+Link to Repo:
+https://github.com/rayjohn666/My-Portfolio.git
 
 
 License$$

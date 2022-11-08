@@ -13,8 +13,6 @@ section {
 
 .hero {
     background: linear-gradient(rgb(8, 136, 182), rgb(186, 195, 62) );
-    
-
     height: 100vh;
     color: rgb(10, 10, 10);
     font-size: 40px;
@@ -183,6 +181,7 @@ p {
 position: relative;
 text-align: center;
 color: white;
+opacity: none;
 }
 
 

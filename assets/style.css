@@ -183,10 +183,12 @@ p {
 
 /* Container holding the image and the text */
 .container {
+    
 position: relative;
 }
 
 .overlay {
+    
     position: absolute;
     top: 50%;
     left: 50%;
@@ -196,6 +198,18 @@ position: relative;
     background-color: rgba(255, 255, 255, 0.513); /* Add a semi-transparent white background for better readability */
     padding: 20px;
     text-align: center;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .container {
+      padding: 0;
+    }
+    .container h2 {
+      font-size: 1.5em;
+    }
+    .container p {
+      font-size: 1em;
+    }
   }
 
 

@@ -11,12 +11,7 @@ section {
     
 }
 
-.hero {
-    background: linear-gradient(rgb(8, 136, 182), rgb(186, 195, 62) );
-    height: 100vh;
-    color: rgb(10, 10, 10);
-    font-size: 40px;
-}
+
 
 footer {
     height: 500px;
@@ -63,7 +58,7 @@ margin: 0;
 
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-background-color: rgb(87, 83, 83);
+background-color: rgb(58, 57, 57);
 }
 
 
@@ -129,6 +124,10 @@ p {
     height: 100%;
     justify-content: space-between;
     align-items: center;
+    background: linear-gradient(rgb(8, 136, 182), rgb(186, 195, 62) );
+    height: 100vh;
+    color: rgb(10, 10, 10);
+    font-size: 40px;
 
 }
 
@@ -176,13 +175,22 @@ p {
     
 }
 
-* Container holding the image and the text */
+/* Container holding the image and the text */
 .container {
 position: relative;
-text-align: center;
-color: white;
-opacity: none;
 }
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.513); /* Add a semi-transparent white background for better readability */
+    padding: 20px;
+    text-align: center;
+  }
 
 
 .bottom-left {

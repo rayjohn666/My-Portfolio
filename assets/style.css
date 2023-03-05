@@ -198,19 +198,41 @@ position: relative;
     background-color: rgba(255, 255, 255, 0.513); /* Add a semi-transparent white background for better readability */
     padding: 20px;
     text-align: center;
-  }
+}
 
-  @media only screen and (max-width: 768px) {
-    .container {
-      padding: 0;
+@media only screen and (max-width: 768px) {
+    body, html {
+        font-size: 20px;
+    }
+    section {
+        height: 300px;
+    }
+    footer {
+        height: 300px;
+    }
+    .navbar a {
+        font-size: 16px;
+    }
+    .dropdown .dropbtn {
+        font-size: 14px;
+        padding: 10px 12px;
+    }
+    .hero-text {
+        margin-left: 20px;
+        margin-bottom: 100px;
+    }
+    .button {
+        width: 150px;
+        height: 40px;
+        font-size: 20px;
     }
     .container h2 {
-      font-size: 1.5em;
+        font-size: 1.2em;
     }
     .container p {
-      font-size: 1em;
+        font-size: 0.8em;
     }
-  }
+    }
 
 
 .bottom-left {
